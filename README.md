@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+31/10/2023
+- https://www.codewars.com/kata/598d91785d4ce3ec4f000018/javascript
+
 30/10/2023
 - https://www.codewars.com/kata/5533c2a50c4fea6832000101/javascript
 
