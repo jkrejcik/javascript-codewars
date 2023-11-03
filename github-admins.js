@@ -16,4 +16,6 @@ var list1 = [
     return result;
   }
 
+//   Better way is using filter: return list.filter(p => p.language === lang && p.githubAdmin === 'yes');
+
   console.log(findAdmin(list1, 'JavaScript'));

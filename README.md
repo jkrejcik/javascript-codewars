@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+2/11/2023
+- GitHub Admins: https://www.codewars.com/kata/582dace555a1f4d859000058/javascript 
+
 31/10/2023
 - Word Values: https://www.codewars.com/kata/598d91785d4ce3ec4f000018/javascript
 
