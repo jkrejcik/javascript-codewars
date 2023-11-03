@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+3/11/2023
+- Count Number of Developers EU: https://www.codewars.com/kata/582746fa14b3892727000c4f/javascript 
+
 2/11/2023
 - GitHub Admins: https://www.codewars.com/kata/582dace555a1f4d859000058/javascript 
 
