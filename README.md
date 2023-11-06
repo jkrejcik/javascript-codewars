@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+6/11/2023
+- Greet Developers: https://www.codewars.com/kata/58279e13c983ca4a2a00002a/javascript 
+
 3/11/2023
 - Count Number of Developers EU: https://www.codewars.com/kata/582746fa14b3892727000c4f/javascript 
 
