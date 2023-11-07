@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+7/11/2023
+- Is Ruby Coming?: https://www.codewars.com/kata/5827acd5f524dd029d0005a4/javascript 
+
 6/11/2023
 - Greet Developers: https://www.codewars.com/kata/58279e13c983ca4a2a00002a/javascript 
 
