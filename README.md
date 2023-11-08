@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+8/11/2023
+- Find The First Python Developer: https://www.codewars.com/kata/5827bc50f524dd029d0005f2/javascript 
+
 7/11/2023
 - Is Ruby Coming?: https://www.codewars.com/kata/5827acd5f524dd029d0005a4/javascript 
 
