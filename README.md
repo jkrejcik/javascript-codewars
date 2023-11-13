@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+10/11/2023
+- Count Of Languages: https://www.codewars.com/kata/5828713ed04efde70e000346/javascript 
+
 8/11/2023
 - Find The First Python Developer: https://www.codewars.com/kata/5827bc50f524dd029d0005f2/javascript 
 
