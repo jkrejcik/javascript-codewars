@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+13/11/2023
+- Code In Same Language?: https://www.codewars.com/kata/coding-meetup-number-6-higher-order-functions-series-can-they-code-in-the-same-language 
+
 10/11/2023
 - Count Of Languages: https://www.codewars.com/kata/5828713ed04efde70e000346/javascript 
 
