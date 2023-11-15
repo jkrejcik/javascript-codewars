@@ -1,6 +1,12 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+15/11/2023
+- All Continents: https://www.codewars.com/kata/coding-meetup-number-8-higher-order-functions-series-will-all-continents-be-represented 
+
+14/11/2023
+- Senior Developer: https://www.codewars.com/kata/coding-meetup-number-7-higher-order-functions-series-find-the-most-senior-developer 
+
 13/11/2023
 - Code In Same Language?: https://www.codewars.com/kata/coding-meetup-number-6-higher-order-functions-series-can-they-code-in-the-same-language 
 
