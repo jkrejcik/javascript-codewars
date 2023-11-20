@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+17/11/2023
+- Create Username: https://www.codewars.com/kata/coding-meetup-number-10-higher-order-functions-series-create-usernames 
+
 16/11/2023
 - Age Diversity: https://www.codewars.com/kata/coding-meetup-number-9-higher-order-functions-series-is-the-meetup-age-diverse 
 
