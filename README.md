@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+20/11/2023
+- Find Average Age: https://www.codewars.com/kata/coding-meetup-number-11-higher-order-functions-series-find-the-average-age 
+
 17/11/2023
 - Create Username: https://www.codewars.com/kata/coding-meetup-number-10-higher-order-functions-series-create-usernames 
 
