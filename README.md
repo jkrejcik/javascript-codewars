@@ -1,6 +1,12 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+22/11/2023
+- Order the Food: https://www.codewars.com/kata/coding-meetup-number-14-higher-order-functions-series-order-the-food 
+
+21/11/2023
+- Diverse Meetup: https://www.codewars.com/kata/coding-meetup-number-13-higher-order-functions-series-is-the-meetup-language-diverse 
+
 20/11/2023
 - Find Average Age: https://www.codewars.com/kata/coding-meetup-number-11-higher-order-functions-series-find-the-average-age 
 
