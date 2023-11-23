@@ -25,3 +25,14 @@ function orderFood(list) {
 }
 
 console.log(orderFood(list1));
+
+// Solution not using Set
+
+// function orderFood(list) {
+//     var orders = {};
+//     list.forEach(d=>{
+//       if(orders[d.meal]) orders[d.meal]++;
+//       else orders[d.meal] = 1;
+//     });
+//     return orders;
+//   }
