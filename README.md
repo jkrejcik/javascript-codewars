@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+27/11/2023
+- Sort out by Programming Language: https://www.codewars.com/kata/coding-meetup-number-17-higher-order-functions-series-sort-by-programming-language 
+
 24/11/2023
 - Ask For Missing Details: https://www.codewars.com/kata/coding-meetup-number-16-higher-order-functions-series-ask-for-missing-details 
 
