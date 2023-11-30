@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+30/11/2023
+- Latin Squares: https://www.codewars.com/kata/645fb55ecf8c290031b779ef 
+
 27/11/2023
 - Sort out by Programming Language: https://www.codewars.com/kata/coding-meetup-number-17-higher-order-functions-series-sort-by-programming-language 
 
