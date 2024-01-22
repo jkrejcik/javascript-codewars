@@ -1,6 +1,9 @@
 # javascript-codewars
 Solved JS challenges from CodeWars
 
+22/01/2024
+- Grasshopper - https://www.codewars.com/kata/55d24f55d7dd296eb9000030 
+
 19/01/2024
 - Number object and it's properties: https://www.codewars.com/kata/5722fd3ab7162a3a4500031f/javascript
 
